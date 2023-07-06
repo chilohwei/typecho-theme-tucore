@@ -28,9 +28,9 @@
 
     <?php $this->header(); ?>
 
-    <meta name="author" content="Chiloh,chilohwei@gmail.com" />
+    <meta name="author" content="Chiloh" />
 
-    <meta name="description" content="一个试图理解世界、理解自己的人 - Chiloh Wei" />
+    <meta name="description" content="Chiloh Wei, Product Manager" />
 
     <link rel="shortcut icon" href="<?php $this->options->themeUrl(); ?>images/favicon.png" type="image/x-icon" />
 

@@ -1,1 +1,0 @@
-# typecho-theme-tucore

@@ -20,10 +20,11 @@
                         <div class="post_footer">
                             <div class="meta">
                                 <div class="info">
+                                    <!--隐藏标签
                                     <span class="field tags">
                                         <i class="fa fa-flask"></i>
-                                        <?php _e('标签: '); ?><?php $this->tags(', ', true, 'none'); ?>
-                                    </span>
+                                        <?php //_e('标签: '); ?><?php //$this->tags(', ', true, 'none'); ?>
+                                    </span>-->
 
 
                                 </div>

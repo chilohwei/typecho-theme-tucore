@@ -2,8 +2,7 @@
 </div>
 
 <div class="footer">
-    <a href="/about.html">About Me</a>
-    <a href="/archives.html">Archives</a>
+    <a href="/about.html">About</a>
     <a href="/privacy.html">Privacy</a>
     <a href="/feed">RSS</a>
 
