@@ -17,7 +17,6 @@
     </div>
 
 </div>
-<script type="text/javascript" src="<?php $this->options->themeUrl(); ?>js/analytics.js"></script>
 <script type="text/javascript" src="<?php $this->options->themeUrl(); ?>js/fonts.js"></script>
 <?php $this->footer(); ?>
 </body>

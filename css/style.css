@@ -6,7 +6,7 @@ html {
     color: #333;
     font-family:"PingFang SC", "KaiGenGothicSC-Regular", "Microsoft Yahei", Arial, sans-serif,
         SimSun;
-    font-size: 16px;
+    font-size: 14px;
     width: 100%;
     background-color: #f7f7f7;
     margin: 0;
@@ -140,7 +140,7 @@ h1, h2, h3, h4, h5, h6 {
       .post .post_content a {
         text-decoration: none;
         letter-spacing: 0.5px;
-        color: #424242;
+        color: #C83C23;
         text-decoration: underline; }
         .post .post_content a:hover {
           color: #424242; }

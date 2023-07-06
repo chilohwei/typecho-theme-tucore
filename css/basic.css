@@ -53,7 +53,9 @@
                             margin: 0.8em 0 0.5em 0; }
                             .markdown img {
                               max-width: 100%;
-                              height: auto; }
+                              height: auto; 
+                              box-shadow: 0 0 2px rgba(0, 0, 0, 0.2);
+                              border-radius: 2px; }
                               .markdown p, .markdown ul, .markdown ol, .markdown dl {
                                 margin: 0.8em 0; }
                                 .markdown ol ol, .markdown ul ul, .markdown ul ol, .markdown ol ul {
